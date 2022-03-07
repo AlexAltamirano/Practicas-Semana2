@@ -2,6 +2,7 @@
 Caso: Pastelería
 
 Descripción:
+
 El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
 El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
 El cliente de la pastelería tendrá la posibilidad de combinar sabores dependiendo de sus preferencias.
@@ -15,11 +16,13 @@ La página debe tener información de la pastelería que es Dirección, Teléfon
 
 
 Prácticas:
+
 Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
 Maquetación de páginas de cliente de la pastelería.
 Maquetación de páginas del pastelero.
 
 Bonus: En caso de que te quede corto el ejercicio siguele con esto!
+
 Bonus de estilos (Intro a CSS)
 Bonus de Rutas (Navegación en la página)
 Bonus de despliegue (Montar la página en línea con dominio gratuito)
