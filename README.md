@@ -1,5 +1,7 @@
 # Prácticas HTML
+
 Caso: Pastelería
+
 
 Descripción:
 
@@ -24,6 +26,7 @@ El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado
 La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
 
+
 Prácticas:
 
 Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
@@ -31,6 +34,7 @@ Crear marca de la pastelería como un logo y los mensajes que daremos desde la m
 Maquetación de páginas de cliente de la pastelería.
 
 Maquetación de páginas del pastelero.
+
 
 
 Bonus: En caso de que te quede corto el ejercicio siguele con esto!
