@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pastelería Cosmica</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* Estilo de header */
+        header {
+            background-color: #EC5FE1;
+            padding: 30px;
+            text-align: center;
+            font-size: 100px;
+            color: white;
+        }
+
+    </style>
+</head>
+
+<body>
+<header>Postelería el cosmos</header>
+<logo>
+    <img src="./Assets/img/Pasteleria.PNG" alt="Pasteles Cosmicos" width="250px">
+</logo>
+<hr>
+
+<h2 style="text-align: center;"> Nuestros Pasteles</h2>
+<table>
+    <tr>
+        <th colspan="3">Pasteles de la casa</th>
+    </tr>
+    <tr>
+        <td>Pastel de fresas</td>
+        <td>Pastel de cafe</td>
+        <td>Pastel de unicornios</td>
+    </tr>
+    <tr>
+        <td>1,200$</td>
+        <td>1,450$</td>
+        <td>2,000$</td>
+    </tr>
+    <tr>
+
+    </tr>
+    <tr>
+        <td><img src="./Assets/img/Pastel1.PNG" alt="Pastel 1" style="width:250px;height:250px;"></td>
+        <td><img src="./Assets/img/Pastel2.PNG" alt="Pastel 2" style="width:250px;height:250px;"></td>
+        <td><img src="./Assets/img/Pastel3.PNG" alt="Pastel 3" style="width:250px;height:250px;"></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="4">Pasteles personalizados</th>
+    </tr>
+    <tr>
+        <th>Sabores</th>
+        <th>Precio</th>
+        <th>Adornos</th>
+        <th>Precio</th>
+    </tr>
+    <tr>
+        <td>Chocolate</td>
+        <td>500$</td>
+        <td>Lazos de caramelo</td>
+        <td>350$</td>
+    </tr>
+    <tr>
+        <td>Vainilla</td>
+        <td>600$</td>
+        <td>Flores de merengue</td>
+        <td>250$</td>
+    </tr>
+    <tr>
+        <td>Fresa</td>
+        <td>650$</td>
+        <td>Frutas decorativas</td>
+        <td>300$</td>
+    </tr>
+</table>
+<hr>
+
+<h3 style="text-align: center;"> Encargos </h3>
+    <!-- Formularios -->
+    <h1>Mi Pastel</h1>
+    <h2>Contacto</h2>
+    <form action="/accion.js" id="form1" method="post">
+        <label for="nombre">Nombre completo:</label>
+        <input type="text" id="nombre" name="nombre"><br>
+        <label for="tel1">Teléfono:</label>
+        <input type="tel" id="tel1" name="tel1" maxlength="10"><br>
+        <label for="correo1">Correo:</label>
+        <input type="email" id="correo1" name="correo1"><br><br>
+        <h3>¿Qué le apetece?</h3>
+        <label for="Input1"> Descripción de su pastel</label><br>
+        <input type="text" id="Input1" name="Input1"><br><br>
+        <h3>Sabores</h2><br>
+        <input type="checkbox" id="option1" name="option1" value="Chocolate">
+        <label for="option1">Chocolate</label><br>
+        <input type="checkbox" id="option2" name="option2" value="Vainilla">
+        <label for="option2">Vainilla</label><br>
+        <input type="checkbox" id="option3" name="option3" value="Fresa">
+        <label for="option3">Fresa</label><br>
+        <h3>Adornos</h2><br>
+        <input type="checkbox" id="adorno1" name="adorno1" value="Lazos">
+        <label for="adorno1">Lazos de caramelo</label><br>
+        <input type="checkbox" id="adorno2" name="adorno2" value="Flores">
+        <label for="adorno2">Flores de merengue</label><br>
+        <input type="checkbox" id="adorno3" name="adorno3" value="Frutas">
+        <label for="adorno3">Frutas decorativas</label><br><br>
+        <input type="submit" value="Submit">
+        <input type="reset">
+    </form>
+    <hr>
+    <h2>Información de Contacto</h2>
+    <table>
+        <tr>
+            <th>Dirección</th>
+            <th>Contacto</th>
+            <th>Horario de atención</th>
+        </tr>
+        <tr>
+            <td>Calle 21b a lado del planeta saturno</td>
+            <td>9998765432</td>
+            <td>De 10 am a 9 pm</td>
+        </tr>
+    </table>
+
+</body>
+</html>
