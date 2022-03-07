@@ -3,45 +3,22 @@
 Caso: Pastelería
 
 
-Descripción:
 
-El cliente de la pastelería necesita ver los diferentes sabores de pasteles, así como los precios de cada uno.
+Prácticas: [FINALIZADO]
 
-El cliente de la pastelería necesita ver los diferentes adornos con los que se puede decorar el pastel y los precios de cada uno.
+Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca. [HECHO]
 
-El cliente de la pastelería tendrá la posibilidad de combinar sabores dependiendo de sus preferencias.
+Maquetación de páginas de cliente de la pastelería. [HECHO]
 
-El cliente de la pastelería tendrá la posibilidad de combinar adornos dependiendo de sus preferencias.
-
-El cliente de la pastelería necesita poner en un formulario su pedido.
-
-El formulario debe de contener los datos de contacto del cliente que son Nombre, Teléfono, Correo Electrónico, Descripción general del pastel y la selección de sabores y adornos.
-
-El pastelero necesita tener la información de la cantidad de sabores que le quedan para hacer los pasteles.
-
-El pastelero necesita tener la información de la cantidad de adornos que le quedan para hacer los pasteles.
-
-El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
-
-La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
+Maquetación de páginas del pastelero. [HECHO]
 
 
 
-Prácticas:
+Bonus: En caso de que te quede corto el ejercicio siguele con esto! [PENDIENTE]
 
-Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
+Bonus de estilos (Intro a CSS) []
 
-Maquetación de páginas de cliente de la pastelería.
+Bonus de Rutas (Navegación en la página) []
 
-Maquetación de páginas del pastelero.
-
-
-
-Bonus: En caso de que te quede corto el ejercicio siguele con esto!
-
-Bonus de estilos (Intro a CSS)
-
-Bonus de Rutas (Navegación en la página)
-
-Bonus de despliegue (Montar la página en línea con dominio gratuito)
+Bonus de despliegue (Montar la página en línea con dominio gratuito) []
 
